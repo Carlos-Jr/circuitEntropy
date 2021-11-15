@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@hckrnews/truth-table": "^2.2.3"
+  }
+}
